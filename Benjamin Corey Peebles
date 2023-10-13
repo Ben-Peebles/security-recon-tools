@@ -1,0 +1,12 @@
+Security Reconnaissance tools:
+Shodan: is a search engine that lets users search for various types of servers (webcams, routers, servers, etc.) connected to the internet using a variety of filters
+Shodan collects data mostly on web servers (HTTP/HTTPS – ports 80, 8080, 443, 8443), as well as FTP (port 21), SSH (port 22), Telnet (port 23), SNMP (port 161), IMAP (ports 143, or (encrypted) 993), SMTP (port 25), SIP (port 5060),[3] and Real Time Streaming Protocol (RTSP, port 554). The latter can be used to access webcams and their video streams
+In May 2013, CNN Money released an article detailing how Shodan can be used to find vulnerable systems on the Internet, including traffic light controls. They show screenshots of those systems, which provided the warning banner "DEATH MAY OCCUR !!!" upon connecting
+
+Mesaploit: The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development
+The Metasploit Project includes anti-forensic and evasion tools, some of which are built into the Metasploit Framework. Metasploit is pre-installed in the Kali Linux operating system
+Like comparable commercial products such as Immunity's Canvas or Core Security Technologies' Core Impact, Metasploit can be used to test the vulnerability of computer systems or to break into remote systems. Like many information security tools, Metasploit can be used for both legitimate and unauthorized activities. Since the acquisition of the Metasploit Framework, Rapid7 has added an open core proprietary edition called Metasploit Pro
+
+Open VAS: is the scanner component of Greenbone Vulnerability Management
+The OpenVAS protocol structure aims to be well-documented to assist developers. The OpenVAS Compendium is a publication of the OpenVAS Project that delivers documentation on OpenVAS
+OpenVAS is particularly useful for organizations that require a cost-effective, open-source solution for vulnerability assessment and management. It can help organizations proactively identify and address vulnerabilities, strengthen their security posture, and comply with security standards and regulations
